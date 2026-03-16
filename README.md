@@ -168,22 +168,3 @@ Fine-tuning the model for classification tasks
 Training on larger datasets such as ImageNet
 
 Implementing advanced MAE variants
-
-Author
-
-Osama Khan
-
-GitHub:
-https://github.com/Osamakhan95
-
-If you want, I can also create a much better GitHub README with:
-
-badges (Python, PyTorch, License)
-
-architecture diagram
-
-reconstruction image examples
-
-training result graphs
-
-That version looks much more professional for portfolio or AI research projects.
